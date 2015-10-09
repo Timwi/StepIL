@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepIL", "StepIL.csproj", "{5AA9E831-95E9-4399-ADA5-BE9A19842AC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepIL", "Src\StepIL.csproj", "{5AA9E831-95E9-4399-ADA5-BE9A19842AC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
